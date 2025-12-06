@@ -1,0 +1,58 @@
+.day{
+    width: 150px;
+    height: 20px;
+    border: 2px  #000 solid;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    display: flex;
+}
+.time{
+    width: 30px;
+    height: 120px;
+    border: 2px #000 solid;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pred{
+    width: 118.5px;
+    height: 120px;
+    border: 2px #000 solid;
+    border-top: none;
+    border-left: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.kb{
+    width: 150px;
+    height: 20px;
+    border: 2px #000 solid;
+    border-top: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+}
+.pricol{
+    width: 152px;
+    height: 120px;
+    border: 2px #0a0606 solid;
+    border-top: none;
+    border-left: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.obed{ 
+   display: flex;
+    width: 10px;
+}
